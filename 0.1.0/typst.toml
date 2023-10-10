@@ -1,0 +1,7 @@
+[package]
+name = "whooie"
+version = "0.1.0"
+entrypoint = "whooie.typ"
+authors = [ "Will Huie",]
+license = "Unlicense"
+description = "Just some cool definitions."
